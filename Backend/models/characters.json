@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "firstName": "Tim",
+        "lastName": "Taylor",
+        "job": "Tool Show Host",
+        "img": "http://localhost:5000/models/timTaylor"
+    },
+    {
+        "id": 2,
+        "firstName": "Jill",
+        "lastName": "Taylor",
+        "job": "Psychologist",
+        "img": "http://localhost:5000/models/jillTaylor"
+    },
+    {
+        "id": 3,
+        "firstName": "Brad",
+        "lastName": "Taylor",
+        "job": "Student",
+        "img": "http://localhost:5000/models/bradTaylor"
+    },
+    {
+        "id": 4,
+        "firstName": "Randy",
+        "lastName": "Taylor",
+        "job": "Student",
+        "img": "http://localhost:5000/models/randyTaylor"
+    },
+    {
+        "id": 5,
+        "firstName": "Mark",
+        "lastName": "Taylor",
+        "job": "Student",
+        "img": "http://localhost:5000/models/markTaylor"
+    },
+    {
+        "id": 6,
+        "firstName": "Al",
+        "lastName": "Borland",
+        "job": "Assistant",
+        "img": "http://localhost:5000/models/alBorland"
+    },
+    {
+        "id": 7,
+        "firstName": "Wilson",
+        "lastName": "Wilson",
+        "job": "Neighbor",
+        "img": "http://localhost:5000/models/wilsonWilson"
+    },
+    {
+        "id": 8,
+        "firstName": "Lisa",
+        "job": "Tool Girl",
+        "img": "http://localhost:5000/models/lisa"
+    },
+    {
+        "id": 9,
+        "firstName": "Heidi",
+        "lastName": "Keppert",
+        "job": "Tool Girl",
+        "img": "http://localhost:5000/models/heidiKeppert"
+    }
+]

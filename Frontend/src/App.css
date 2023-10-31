@@ -1,0 +1,68 @@
+:root {
+    font-size: 62.5%;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-size: 2rem;
+    padding-left: 2rem;
+    background-image: url(./assets/logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+/*HEADER*/
+h1 {
+    margin-bottom: 2rem;
+}
+.h1 {
+    color: brown;
+    text-decoration: underline;
+}
+nav {
+    margin-left: 5rem;
+}
+ul {
+    list-style: none;
+}
+.routes li:not(:last-child) {
+    margin-bottom: 1rem;
+}
+.routes li:not(:first-child, :nth-child(2)) {
+    margin-left: 5rem;
+}
+.text-dec-none {
+    text-decoration: none;
+}
+.active {
+    text-decoration: underline;
+}
+.text-dec-none:visited {
+    color: black;
+    text-decoration-color: brown;
+}
+/*ROUTES*/
+main {
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
+/*Characters*/
+form {
+    padding-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+input {
+    width: 25rem;
+}
+button {
+    width: 5rem;
+}
+hr {
+    width: 45rem;
+    margin: 2rem 0;
+}
